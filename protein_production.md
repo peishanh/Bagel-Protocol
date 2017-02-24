@@ -44,23 +44,23 @@ Sterile glass beads | | 8–10
 ### Instructions 
 
 1. Dispense 1 µL aliquots of your mutant plasmid into the round-bottom tubes 
-1. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
-2. While the tubes are chilling, get competent cells from freezer and set on ice
-2. When the tubes are ice cold, add competent cells and incubate on ice for 15 minutes  
-3. Heat shock at 42 C for 90 seconds 
-4. Incubate on ice for 90 seconds 
+2. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
+3. While the tubes are chilling, get competent cells from freezer and set on ice
+4. When the tubes are ice cold and cells are not frozen, add competent cells and incubate on ice for 15 minutes to allow cells to mix with the plasmid
+6. While waiting, set the liquid heat bath "sous-vide" machine to 42 C and press the play button to begin heating the water
+5. Heat shock at 42 C for 90 seconds 
+6. Incubate on ice for 90 seconds 
 5. Add 200 µL Terrific Broth and recover with shaking at 37 C for 1 hour 
-6. Label the plates and place in incubator upside down to warm them 
-7. Right before the hour is up, add glass beads to each plate
+6. Wipe condensation off of outside of plates and label the agarose side of the plates
+6. Before the hour is up, add about 5 to 10 glass beads to each plate
 6. Pipet 200 µL recovered cells on to plate and shake to spread out the cells
 7. After waiting a minute so that the liquid is absorbed, turn the plates upside down so that the beads fall onto the underside of the lid, and deposit beads into bleach solution for later recovery
-7. Incubate plate *upside down* overnight at 37 C
+7. Incubate plate *upside down (agarose half on top)* overnight at 37 C
 
 ### Tips and tricks 
 
 + Chemical competent cells should be kept on ice at all times and never warmed
-+ Bring the ice bucket to the freezer 
-+ Program the thermocycler to perform steps 1-5
++ Bring the ice bucket to the freezer to limit time cells are out of freezing temperatures 
 + Some tips for [troubleshooting transformations from New England Biolabs](https://www.neb.com/tools-and-resources/usage-guidelines/chemical-transformation-tips) 
 + If you are getting poor transformation efficiency, try recovering with 400 µL of media for 2 hours at 37 ˚C
 
