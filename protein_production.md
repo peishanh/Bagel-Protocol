@@ -82,6 +82,9 @@ Kanamycin solution | 5 μL
 Tube seal | 1
 50 mL Falcon tube | 1 
 
+_Minirecipe_ (for 1 sample): 5 mL induction medium = 5 mL Terrific Broth + 5 µL kanamycin solution
+_Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 25 µL kanamycin solution
+
 ### Mise en place 
 
 + 50 mL tube rack 
@@ -125,11 +128,13 @@ _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 2
 + vortexer
 + P20 and tips
 + serological pipet and tips
++ Bunsen burner
++ striker
 
 ### Instructions
 
 1. Centrifuge growth cultures at 4,700 RPM for 10 minutes 
-2. Peel the seals off and pour away supernatant from cell pellet 
+2. Peel the seals off and pour the supernatant from the tube into a flask (does not need to be autoclaved) 
 3. Weigh the pellet and record your pellet weight 
 4. Make a batch of induction media (make enough for n+1) 
 1. Add 1 mL induction medium to cell pellet in tube 
