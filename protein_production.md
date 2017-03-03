@@ -39,10 +39,15 @@ Sterile glass beads | | 8–10
 + P200 and medium tips
 + ice in ice bucket
 + pre-warmed "sous-vide" water bath (42 ˚C) 
++ Bunsen burner
++ striker
 + agar plates (check that we have pre-made plates before starting the procedure. If there aren't any, ask Ryan, Morgan, or Katie.)
 
 ### Instructions 
 
+1. First light Bunsen burner and be sure to work close to the flame to keep contaminants from falling into your samples
++ DO NOT LEAVE BURNER UNATTENDED! ALWAYS TURN IT OFF BEFORE LEAVING THE BENCH FOR ANY AMOUNT OF TIME!
++ Sterility is important for days 1 through 3. Always have a burner and do not exposed cultures to open air for extended periods.
 1. Dispense 1 µL aliquots of your mutant plasmid into the 15 mL round-bottom tubes 
 2. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
 3. While the tubes are chilling, get "chemical competent BLR" cells from -80 C freezer and set on ice
@@ -51,6 +56,7 @@ Sterile glass beads | | 8–10
 5. Heat shock at 42 C for 90 seconds 
 6. Incubate on ice for 90 seconds 
 5. Add 200 µL Terrific Broth and recover with shaking at 37 C for 1 hour 
+6. Turn off water bath by pressing the play button again (play button will turn red)
 6. Wipe condensation off of outside of plates and label the agarose side of the plates
 6. Before the hour is up, add about 5 to 10 glass beads to each plate
 6. Pipet 200 µL recovered cells on to plate and shake to spread out the cells
@@ -66,11 +72,11 @@ Sterile glass beads | | 8–10
 
 ## Day 2: Growth 
 
-Today, you will record the number of colonies on your selection plate and start a culture from a single colony. 
+Today, you will inoculate liquid cultures with one colony from your plates to grow up overnight. 
 
 Material | Amount per reaction
 ---------|---------------------------
-Transformation plate | 1
+Transformation plate from day 1 | 1
 Terrific Broth | 5 mL
 Kanamycin solution | 5 μL
 Tube seal | 1
@@ -81,14 +87,13 @@ Tube seal | 1
 + 50 mL tube rack 
 + waste bucket 
 + pre-cut seals
-+ P1000 and tips 
++ P1000 and large tips 
 + serological pipet aspirator 
 + 25 mL serological pipet
 
 ### Instructions 
 
-1. Record the number of colonies on your transformation plate 
-2. Add kanamycin solution to Terrific Broth to make a batch of growth media for all of your mutants. Make enough for one extra culture
+2. Add kanamycin solution to Terrific Broth in an autoclaved flask to make a batch of growth media for all of your mutants. Make enough for one extra culture (n + 1)
 3. Aliquot 5 mL growth media to each 50 mL Falcon tube 
 1. Using a pipet, carefully scrape a single colony from the plate and dip in the growth media in the Falcon tube, and pipet up and down a few times to inoculate the culture 
 5. Seal the cultures with tube seals (cut into small squares first) 
