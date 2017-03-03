@@ -6,7 +6,7 @@ For this procedure, typical yields are 1.0 ± 0.4 mg/mL for the wild type protei
 
 Before beginning, make sure you have the following ready and standing by:
 
-+ dry bath set to 42 C
++ "sous-vide" water bath set to 42 C
 + 37 C standing, 37 C shaking, and 18 C shaking incubators
 + centrifuges for 50 mL Falcon tubes (up to 4,700 RPM) and 2 mL tubes (up to 14,700 RPM) 
 
@@ -35,19 +35,19 @@ Sterile glass beads | | 8–10
 
 + waste bucket 
 + rack for 15 mL tubes 
-+ P2 and tips,
-+ P200 and tips
++ P2 and small tips,
++ P200 and medium tips
 + ice in ice bucket
-+ pre-warmed dry bath (42 ˚C) 
-+ agar plates 
++ pre-warmed "sous-vide" water bath (42 ˚C) 
++ agar plates (check that we have pre-made plates before starting the procedure. If there aren't any, ask Ryan, Morgan, or Katie.)
 
 ### Instructions 
 
-1. Dispense 1 µL aliquots of your mutant plasmid into the round-bottom tubes 
+1. Dispense 1 µL aliquots of your mutant plasmid into the 15 mL round-bottom tubes 
 2. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
-3. While the tubes are chilling, get competent cells from freezer and set on ice
-4. When the tubes are ice cold and cells are not frozen, add competent cells and incubate on ice for 15 minutes to allow cells to mix with the plasmid
-6. While waiting, set the liquid heat bath "sous-vide" machine to 42 C and press the play button to begin heating the water
+3. While the tubes are chilling, get "chemical competent BLR" cells from -80 C freezer and set on ice
+4. When the tubes are ice cold and cells are no longer frozen, add competent cells to the 15 mL tubes and incubate on ice for 15 minutes to allow cells to mix with the plasmid (make sure the cell droplet and plasmid droplet are together!)
+6. While waiting, set the liquid heat bath "sous-vide" machine to 42 C and press the play button to begin heating the water (the play button will turn white when heating begins)
 5. Heat shock at 42 C for 90 seconds 
 6. Incubate on ice for 90 seconds 
 5. Add 200 µL Terrific Broth and recover with shaking at 37 C for 1 hour 
