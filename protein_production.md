@@ -46,8 +46,8 @@ Sterile glass beads | | 8–10
 ### Instructions 
 
 1. First light Bunsen burner and be sure to work close to the flame to keep contaminants from falling into your samples
-+ DO NOT LEAVE BURNER UNATTENDED! ALWAYS TURN IT OFF BEFORE LEAVING THE BENCH FOR ANY AMOUNT OF TIME!
-+ Sterility is important for days 1 through 3. Always have a burner and do not exposed cultures to open air for extended periods.
+  + DO NOT LEAVE BURNER UNATTENDED! ALWAYS TURN IT OFF BEFORE LEAVING THE BENCH FOR ANY AMOUNT OF TIME!
+  + Sterility is important for days 1 through 3. Always have a burner and do not expose cultures to open air for extended periods
 1. Dispense 1 µL aliquots of your mutant plasmid into the 15 mL round-bottom tubes 
 2. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
 3. While the tubes are chilling, get "chemical competent BLR" cells from -80 C freezer and set on ice
