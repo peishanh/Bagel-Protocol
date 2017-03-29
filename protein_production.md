@@ -82,8 +82,9 @@ Kanamycin solution | 5 μL
 Tube seal | 1
 50 mL Falcon tube | 1 
 
-_Minirecipe_ (for 1 sample): 5 mL induction medium = 5 mL Terrific Broth + 5 µL kanamycin solution
+_Always make enough solutions for the number of samples you have plus 1_
 _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 25 µL kanamycin solution
+_Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 45 µL kanamycin solution
 
 ### Mise en place 
 
