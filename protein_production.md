@@ -135,10 +135,9 @@ _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 2
 ### Instructions
 
 1. Centrifuge growth cultures at 4,700 RPM for 10 minutes 
-2. Peel the seals off and pour the supernatant from the tube into a flask (does not need to be autoclaved) 
-3. Weigh the pellet and record your pellet weight 
+2. Peel the seals off and pour the supernatant from the tube into a flask (does not need to be autoclaved)  
 4. Make a batch of induction media (make enough for n+1) 
-1. Add 1 mL induction medium to cell pellet in tube 
+1. Add 1 mL induction media to cell pellet in tube 
 1. Vortex to resuspend pellet
 1. Add 4 mL more induction medium to tube
 1. Seal with tube seals
@@ -178,16 +177,15 @@ Ni-NTA resin slurry | 100 μL
 
 ## Method 
 
-_Minirecipe (for 1 sample):_ 500 uL lysis buffer = 450 uL wash buffer + 50 uL 10X BugBuster + 1 mg dry lysis mix
+_Minirecipe (for 4 samples):_ 2500 uL lysis buffer = 2250 uL wash buffer + 250 uL 10X BugBuster + 5 mg dry lysis mix
 
-_Minirecipe (for 4 samples):_ 2000 uL lysis buffer = 1800 uL wash buffer + 200 uL 10X BugBuster + 5 mg dry lysis mix
+_Minirecipe (for 8 samples):_ 4500 uL lysis buffer = 4050 uL wash buffer + 450 uL 10X BugBuster + 9 mg dry lysis mix
 
 ### Cell lysis and clarification  
 
 1. Centrifuge expression cultures at 4,700 RPM for 10 minutes
 2. While they are spinning, make lysis buffer and set on rocker
 3. Unseal culture and pour away supernatant 
-4. Weigh your expression pellet and record the pellet weight
 4. Add 500 uL wash buffer to pellet and vortex to resuspend (should have about 1 mL in there) 
 5. Aliquot the resuspended pellets to fresh 2 mL tubes 
 1. Aliquot 500 µL lysis buffer into resuspended pellets in 2 mL tubes
@@ -215,4 +213,4 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 2. [SDS-PAGE analysis for purity](./gel_and_yields.md) 
 3. [assay for kinetic (Michaelis-Menten) parameters](./kinetic_assay.md) 
 4. [assay for thermal stability](./thermal_stability_assay.md)
-
+5. ALWAYS REMEMBER TO THROW AWAY YOUR 2 mL TUBE OF PROTEIN WHEN YOU ARE DONE TAKING MEASUREMENTS AND ASSAYING! KEEP THE BLACK 4˚C FRIDGE CLEAR!
