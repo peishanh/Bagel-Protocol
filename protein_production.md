@@ -83,7 +83,9 @@ Tube seal | 1
 50 mL Falcon tube | 1 
 
 _Always make enough solutions for the number of samples you have plus 1_
+
 _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 25 µL kanamycin solution
+
 _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 45 µL kanamycin solution
 
 ### Mise en place 
@@ -107,6 +109,9 @@ _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 4
 5. Seal the cultures with tube seals (one sheet of breathable seal can be cut into 8 squares for 8 tubes) 
 6. Incubate with shaking at 37 ˚C for 24 hours
 
+###Tips and tricks
+
++ If you have colonies that are white, are not smooth on the surface, and have rough edges they may be contamination. Do not inoculate with one of these colonies; choose a small, round shiny colony. 
 
 ## Day 3: Expression cultures 
 
@@ -143,10 +148,9 @@ _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 2
 1. Seal with tube seals
 1. Incubate with shaking at 18 ˚C for 24 hours 
 
-### Tips for today 
+### Tips and Tricks 
 
 + The more you observe sterile technique, the better the cultures will grow 
-+ **Challenge**: Devise a clever way to simplify resuspension so that a robot could do it
 
 ## Day 4: Protein purification 
 
