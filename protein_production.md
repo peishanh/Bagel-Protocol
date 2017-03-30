@@ -200,6 +200,7 @@ _Minirecipe (for 8 samples):_ 4500 uL lysis buffer = 4050 uL wash buffer + 450 u
 
 While centrifuging, prep your microcolums. If necessary, rinse with water. Set cleaned microcolumns in rack over waste collector before you begin purification. 
 
+1. When there are 15 minutes left in the centrifugation cycle, begin washing microcolumns forward and backward with DI water to ensure there is no beads left from the last use
 1. Add 100 µL Ni-NTA resin slurry to bed of each microcolumn
 1. Add 500 µL wash buffer and allow to drip through
 1. Once the lysed cultures have finished spinning, add 500 µL of clarified supernatant and allow to drip through 
@@ -208,9 +209,10 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 1. Once the wash buffer has stopped draining out of the tube you need to remove the remaining liquid off of the beads
 1. Take a kimwipe and run the bottom of the column along the wipe until the rest of the liquid is sucked out of the column by capillary action.
 1. Once all unwanted proteins and wash buffer have been drained, transfer the column to fresh tube
-1. Add 150 µL protein buffer directly to beads and incubate at room temperature for 1 minute 
-1. Add second 150 µL protein buffer and pulse in the centrifuge a couple of times to ensure you get all the liquid
-3. Remove column from tube. Tube contains purified protein solution
+1. Add 150 µL protein buffer directly to beads and incubate at room temperature for 1 minute
+1. Flick the tube so that the blue bead bed is disturbed and makes the protein buffer solution cloudy
+1. Add a second 150 µL protein buffer and pulse in the centrifuge by holding down the fast forward button for about 3-5 seconds to ensure you get all the liquid
+3. Remove the column from the 2 mL tube. This tube contains purified protein solution you worked all week to create!
 1. Wash out the columns with DI water 
 
 ### Next steps 
