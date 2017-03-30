@@ -1,14 +1,15 @@
 # Production and purification of BglB
 
-This is a guide to the production and purification of β-glucosidase B from *P. polymxa* beginning with purified plasmid and ending with purified protein. This protocol and the associated scripts and data in this repository are part of the [Siegel group](https://sites.google.com/site/ucdsiegellab/)'s "Bagel" project. 
+This is a guide to the production and purification of β-glucosidase B from [*Paenibacillus polymxa*](https://en.wikipedia.org/wiki/Paenibacillus_polymyxa) beginning with purified plasmid and ending with purified protein. This protocol and the associated scripts and data in this repository are part of the [Siegel group](https://sites.google.com/site/ucdsiegellab/)'s "Bagel" project. 
 
 For this procedure, typical yields are 1.0 ± 0.4 mg/mL for the wild type protein. 
 
 Before beginning, make sure you have the following ready and standing by:
 
-+ "sous-vide" water bath set to 42 ˚C
-+ 37 ˚C standing, 37 ˚C shaking, and 18 ˚C shaking incubators
-+ centrifuges for 50 mL Falcon tubes (up to 4,700 RPM) and 2 mL tubes (up to 14,700 RPM) 
++ M "sous-vide" water bath set to 42 ˚C
++ 37 ˚C standing, 37 ˚C shaking, and 18 ˚C shaking incubators 
++ Make sure to reserve your spot on the whiteboard and enusre there will be room for you in the shakers for the nights between day 2 and 3
++ Centrifuges for 50 mL Falcon tubes (up to 4,700 RPM) and 2 mL tubes (up to 14,700 RPM) 
 
 ## Mise en place
 
@@ -20,7 +21,7 @@ After we have designed our set of mutants, we mutate the wild type Bagel plasmid
 
 ## Day 1: Transformation 
 
-In this step, you will transform the plasmids encoding your mutant genes into *Escherichia coli BLR(DE3)*. Transformation is the process of physically shocking the bacteria to induce them to take up foreign DNA from the environment. Today, you will heat shock the *E. coli* to induce the uptake of the plasmid encoding the mutant you designed. 
+In this step, you will transform the plasmids encoding your mutant genes into *Escherichia coli BLR(DE3)*. Transformation is the process of physically shocking the bacteria (heat or electricity depending on the procedure) to induce them to take up foreign DNA from the environment. Today, you will heat shock the *E. coli* to induce the uptake of the plasmid encoding the mutant you designed. 
 
 Material | Concentration  | Amount per reaction
 ---------|----------------|--------------------
@@ -33,23 +34,22 @@ Sterile glass beads | | 8–10
 
 ### Mise en place
 
-+ waste bucket 
-+ rack for 15 mL tubes 
-+ P2 and small tips,
-+ P200 and medium tips
-+ ice in ice bucket
-+ pre-warmed "sous-vide" water bath (42 ˚C) 
++ Benchtop waste bucket 
++ Rack for 15 mL tubes 
++ Pipettors and tips
++ Ice in ice bucket
++ Pre-warmed "sous-vide" water bath (42 ˚C) 
 + Bunsen burner
-+ striker
-+ agar plates (check that we have pre-made plates before starting the procedure. If there aren't any, ask Ryan, Morgan, or Katie.)
++ Striker
++ Agar plates (check that we have pre-made plates before starting the procedure. If there aren't any, ask Ryan, Morgan, or Katie.)
 
 ### Instructions 
 
 1. First light Bunsen burner and be sure to work close to the flame to keep contaminants from falling into your samples
   + DO NOT LEAVE BURNER UNATTENDED! ALWAYS TURN IT OFF BEFORE LEAVING THE BENCH FOR ANY AMOUNT OF TIME!
   + Sterility is important for days 1 through 3. Always have a burner and do not expose cultures to open air for extended periods
-1. Dispense 1 µL aliquots of your mutant plasmid into the 15 mL round-bottom tubes 
-2. Set round-bottom tubes on ice and incubate on ice for 5 minutes 
+1. Dispense 1 µL aliquots of your mutant plasmid into the very bottom of the 15 mL round-bottom tubes 
+2. Set the round-bottom tubes on ice and incubate on ice for 5 minutes 
 3. While the tubes are chilling, get "chemical competent BLR" cells from -80 ˚C freezer and set on ice
 4. When the tubes are ice cold and cells are no longer frozen, add competent cells to the 15 mL tubes and incubate on ice for 15 minutes to allow cells to mix with the plasmid (make sure the cell droplet and plasmid droplet are together!)
 6. While waiting, set the liquid heat bath "sous-vide" machine to 42 ˚C and press the play button to begin heating the water (the play button will turn white when heating begins)
@@ -59,7 +59,7 @@ Sterile glass beads | | 8–10
 6. Turn off water bath by pressing the play button again (play button will turn red)
 6. Wipe condensation off of outside of plates and label the agarose side of the plates
 6. Before the hour is up, add about 5 to 10 glass beads to each plate
-6. Pipet 200 µL recovered cells on to plate and shake to spread out the cells
+6. Pipette 200 µL recovered cells on to plate and shake to spread out the cells
 7. After waiting a minute so that the liquid is absorbed, turn the plates upside down so that the beads fall onto the underside of the lid, and deposit beads into bleach solution for later recovery
 7. Incubate plate *upside down (agarose half on top)* overnight at 37 ˚C
 
@@ -72,7 +72,7 @@ Sterile glass beads | | 8–10
 
 ## Day 2: Growth 
 
-Today, you will inoculate liquid cultures with one colony from your plates to grow up overnight. 
+Today, you will inoculate liquid cultures with one colony from your plates to grow up overnight to increase the number of cells we have to work with for day 3. 
 
 Material | Amount per reaction
 ---------|---------------------------
@@ -91,21 +91,20 @@ _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 4
 ### Mise en place 
 
 + 50 mL tube rack 
-+ P2 and small tips
-+ waste bucket 
-+ pre-cut seals
-+ P1000 and large tips 
-+ serological pipet aspirator 
-+ 25 mL serological pipet
++ Benchtop waste bucket 
++ Pre-cut breathable seals
++ Pipettors and tips 
++ Serological pipette aspirator 
++ 25 mL serological pipette
 + Bunsen burner
-+ striker
++ Striker
 
 ### Instructions 
 
 1. Light Bunsen burner within 2 feet of where you will be working
 2. Add kanamycin solution to Terrific Broth in an autoclaved flask to make a batch of growth media for all of your mutants. Make enough for one extra culture (n + 1)
 3. Aliquot 5 mL growth media to each 50 mL Falcon tube 
-1. Using a P2 pipet, use the tip to carefully touch a single colony from the plate and dip in the growth media in the Falcon tube, and pipet up and down a few times to inoculate the culture 
+1. Using a P2 pipette, use the tip to carefully touch a single colony from the plate and dip in the growth media in the Falcon tube, and pipette up and down a few times to inoculate the culture 
 5. Seal the cultures with tube seals (one sheet of breathable seal can be cut into 8 squares for 8 tubes) 
 6. Incubate with shaking at 37 ˚C for 24 hours
 
@@ -130,12 +129,14 @@ _Minirecipe_ (for 4 samples) : 25 mL induction medium = 25 mL Terrific Broth + 2
 
 ### *Mise en place*
 
-+ tube rack
-+ vortexer
-+ P20 and tips
-+ serological pipet and tips
++ Benchtop waste bucket
++ 25 mL tube rack
++ Vortexer
++ Pipettors and tips
++ Serological pipette asperator
++ 25 mL serological pipette
 + Bunsen burner
-+ striker
++ Striker
 
 ### Instructions
 
