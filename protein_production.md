@@ -194,7 +194,7 @@ _Minirecipe (for 8 samples):_ 4500 uL lysis buffer = 4050 uL wash buffer + 450 u
 5. Aliquot the resuspended pellets to fresh 2 mL tubes 
 1. Aliquot 500 µL lysis buffer into resuspended pellets in 2 mL tubes
 1. Rock tubes for 30 minutes at room temperature to lyse cells 
-1. Centrifuge at 14,700 RPM for 30-60 minutes to clarify the lysate 
+1. Centrifuge at 14,700 RPM for 30 minutes in the large ultracentrifuge to clarify the lysate 
 
 ### Purification by immobilized metal ion chromatography 
 
@@ -205,7 +205,9 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 1. Once the lysed cultures have finished spinning, add 500 µL of clarified supernatant and allow to drip through 
 1. Add another 500 µL of supernatant and allow to drip through  
 1. Wash six times with 500 µL of wash buffer, allow to drip through each time
-1. Once all unwanted proteins have been washed away, transfer column to fresh tube
+1. Once the wash buffer has stopped draining out of the tube you need to remove the remaining liquid off of the beads
+1. Take a kimwipe and run the bottom of the column along the wipe until the rest of the liquid is sucked out of the column by capillary action.
+1. Once all unwanted proteins and wash buffer have been drained, transfer the column to fresh tube
 1. Add 150 µL protein buffer directly to beads and incubate at room temperature for 1 minute 
 1. Add second 150 µL protein buffer and pulse in the centrifuge a couple of times to ensure you get all the liquid
 3. Remove column from tube. Tube contains purified protein solution
@@ -213,8 +215,8 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 
 ### Next steps 
 
-1. [quantitate by absorbance at 280](./gel_and_yields.md)
+1. [Quantitate by absorbance at 280](./gel_and_yields.md)
 2. [SDS-PAGE analysis for purity](./gel_and_yields.md) 
-3. [assay for kinetic (Michaelis-Menten) parameters](./kinetic_assay.md) 
-4. [assay for thermal stability](./thermal_stability_assay.md)
+3. [Assay for kinetic (Michaelis-Menten) parameters](./kinetic_assay.md) 
+4. [Assay for thermal stability](./thermal_stability_assay.md)
 5. ALWAYS REMEMBER TO THROW AWAY YOUR 2 mL TUBE OF PROTEIN WHEN YOU ARE DONE TAKING MEASUREMENTS AND ASSAYING! KEEP THE BLACK 4˚C FRIDGE CLEAR!
