@@ -31,9 +31,9 @@ This assay assumes that you have followed the protein production and purificatio
 1. Aliquot 1 µL of each mutant, 1 well per mutant
 3. Incubate at room temperature for 5 minutes
 3. **If the sample turns yellow**:
-   + make a 1/100 dilution in a fresh tube: mix 10 μL purified protein and 990 μL wash buffer
+   + make a 1/100 dilution in a fresh tube: mix 10 μL purified protein and 990 μL protein buffer
 4. **Else**:
-   + make a 1/10 dilution in the fresh tube: mix 100 μL purified protein and 900 μL wash buffer
+   + make a 1/10 dilution in the fresh tube: mix 100 μL purified protein and 900 μL protein buffer
 
 Use the diluted purified protein for the remainder of the procedure. The undiluted stock can be used to run a gel and quantitate protein concentration by A280.
 
