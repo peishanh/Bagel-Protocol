@@ -182,9 +182,9 @@ Ni-NTA resin slurry | 100 μL
 
 ## Method 
 
-_Minirecipe (for 4 samples):_ 2500 uL lysis buffer = 2250 uL wash buffer + 250 uL 10X BugBuster + 5 mg dry lysis mix
+_Minirecipe (for 4 samples make n + 2):_ 2500 uL lysis buffer = 2700 uL wash buffer + 300 uL 10X BugBuster + 6 mg dry lysis mix
 
-_Minirecipe (for 8 samples):_ 4500 uL lysis buffer = 4050 uL wash buffer + 450 uL 10X BugBuster + 9 mg dry lysis mix
+_Minirecipe (for 8 samples make n + 2):_ 5000 uL lysis buffer = 4500 uL wash buffer + 500 uL 10X BugBuster + 10 mg dry lysis mix
 
 ### Cell lysis and clarification  
 
@@ -222,4 +222,4 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 2. [SDS-PAGE analysis for purity](./gel_and_yields.md) 
 3. [Assay for kinetic (Michaelis-Menten) parameters](./kinetic_assay.md) 
 4. [Assay for thermal stability](./thermal_stability_assay.md)
-5. ALWAYS REMEMBER TO THROW AWAY YOUR 2 mL TUBE OF PROTEIN WHEN YOU ARE DONE TAKING MEASUREMENTS AND ASSAYING! KEEP THE BLACK 4˚C FRIDGE CLEAR!
+5. ALWAYS REMEMBER TO THROW AWAY YOUR 2 mL TUBE OF PROTEIN AND CULTURE PLATE WHEN YOU ARE DONE TAKING MEASUREMENTS AND ASSAYING! KEEP THE 4˚C COLD ROOM CLEAR!
