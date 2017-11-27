@@ -13,7 +13,7 @@
 1. Remove 0.1cm electroporation cuvettes for each mutant from individual packaging and KEEP ON ICE
 2. Aquire electro competent *DH5a* cells from the -80 fridge and put them on ice
 3. Once thawed, add 25uL of cells to the very bottom (between the two silver plates) in the corner where there is no notch on the outside wall of the cuvette.
-4. Place into BioRad electroporater (only fit in 1 way) set to "Bacteria" and "Time ms" and hit
+4. Place into BioRad electroporater (they only fit in 1 way because of the notch) set to "Bacteria" and "Time ms" and hit
 “Pulse”
 5. Use a p200 to IMMEDIATLEY add 200uL of media (TB, NO antibiotic) into the bottom of the crevice in the cuvette to extract cells
 6. Transfer cells and TB to a fresh labeled 15 mL tube
