@@ -5,44 +5,35 @@
 2. If you are using multiple oligos for several changes at once, make sure they do not overlap. You may need to make a longer/shorter oligo to encode all the mutations on one oligo (but this is expensive after 100bp) or break it into several oligos with shorter compliments.
 #### Kinase oligo in a 96 well plate
 1. Make Kinase Reaction Mix (make #rxn+2)
-  1. 3uL PNK Buffer/rxn
-  2. 1uL of 10mM ATP/rxn
-  3. 1uL T4 Polynucleotide Kinase/rxn
-  4. 18uL ddiH2O/rxn
+  * 3uL PNK Buffer/rxn
+  * 1uL of 10mM ATP/rxn
+  * 1uL T4 Polynucleotide Kinase/rxn
+  * 18uL ddiH2O/rxn
 2. Combine oligo and reaction mix in PCR strip tubes or 96well PCR Plate
-  1. Aliquot 23uL of Kinase Reaction Mix using repeater
-  2. Make sure all liquid at the bottom by tapping or briefly spinning
-  3. Add 7uL of 100uM oligo to the BOTTOM of each well and pipette up and down
+  * Aliquot 23uL of Kinase Reaction Mix using repeater
+  * Make sure all liquid at the bottom by tapping or briefly spinning
+  * Add 7uL of 100uM oligo to the BOTTOM of each well and pipette up and down
 3. Seal, MIX gently by tapping, and incubate at 37deg C (metal bath or PCR machine) for 1 hour
 4. Store on ice short term, or -20 long term
-  1. These can be re-used in the future so no need to throw them away!
+  * These can be re-used in the future so no need to throw them away!
+
 #### Dilute Mutagenic Kinased Oligo (Optimal molar ratio is 1:4 dU-ssDNA:Oligo)
+1. Add 2uL of oligo into 200uL of diH20 and then MIX WELL!
+  * If doing a mutant with multiple oligos add 2uL of EACH oligo to the same tube
+  * This dilution factor will achieve the desired 1:4 dU-ssDNA:Oligo molar ratio for most single stranded DNA preps.
+  
+#### Anneal Diluted Oligo and ssDNA
+1. Combine 0.2uL of T4 DNA Ligase Buffer with 2uL of ssDNA, (make #rxn+2)
+2. Aliquot 2.2uL of the mix into a in a fresh PCR plate or strip tubes
+3. Make sure all the liquid as the bottom by spinning down or tapping
+4. Add 2uL of THE DILUTED kinased primer (single or mixed) to generate desired mutant to the bottom of the plate and PIPPETE UP AND DOWN TO MIX.
+  * Always do a background as well where you have ssDNA with NO oligo (just add 2uL of water). This will allow to you to know if you mutations work and estimate your mutation efficiency so you can pick the appropriate number of colonies you need to screen in order to find the mutation desired.
 
-a. Add 2uL of oligo into 200uL of diH20 and then MIX WELL!
-i. If doing a mutant with multiple oligos add 2uL of EACH oligo to the same tube
-ii. This dilution factor will achieve the desired 1:4 dU-ssDNA:Oligo molar ratio for most
-single stranded DNA preps.
-5. Anneal Diluted Oligo and ssDNA
-a. Combine 0.2uL of T4 DNA Ligase Buffer with 2uL of ssDNA, (make #rxn+2)
-b. Aliquot 2.2uL of the mix into a in a fresh PCR plate or strip tubes
-c. Make sure all the liquid as the bottom by spinning down or tapping
-d. Add 2uL of THE DILUTED kinased primer (single or mixed) to generate desired mutant to
-the bottom of the plate and PIPPETE UP AND DOWN TO MIX.
-i. Always do a background as well where you have ssDNA with NO oligo
-(just add 2uL of water). This will allow to you to know if you mutations work
-and estimate your mutation efficiency so you can pick the appropriate number
-of colonies you need to screen in order to find the mutation desired.
+5. Seal, MIX (tapping or plate mixer)
+6. Anneal Oligo to DNA (USE heated lid)
+  * Slow Anneal in a PCR machine: Start at 95 degrees and ramp down to 25 over an hour (use ANNEALIN or )
 
-e. Seal, MIX (tapping or plate mixer)
-f. Anneal Oligo to DNA (USE heated lid)
-i. Slow Anneal in a PCR machine: Start at 95 degrees and ramp down to 25 over an
-hour
-ii. Fast Anneal in PCR Machine: 95-2min; 50-2min; 25-4eva
-1. *I find the slow ramp decreases background and increases overall kunkel
-efficiency relative to the quick protocol, but Fast Anneal is better for
-generating libraries
-
-6. Polymerize DNA
+#### Polymerize DNA
 a. Make polymerization reaction mixture (make #rxn+2)
 i. 0.6uL 10x T4 Ligase Buffer/rxn
 ii. 0.4uL 25mM dNTPs/rxn
