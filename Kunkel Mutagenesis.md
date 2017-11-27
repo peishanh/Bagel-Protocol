@@ -93,8 +93,3 @@ e. Move to the next row.
 iii. Dry plates at 37deg for ½ hr, lid-side up.
 iv. Turn plates so agar side is up and incubate at 37deg overnight
 
-20%PEG/2.5M NaCl
-200g PEG (polyethylene glycol) 8000MW
-141.6g NaCl
-Add dH 2 0 to 1L
-Autoclave with a stir bar, stir immediately after autoclaving until cool, and
