@@ -5,17 +5,17 @@
 2. If you are using multiple oligos for several changes at once, make sure they do not overlap. You may need to make a longer/shorter oligo to encode all the mutations on one oligo (but this is expensive after 100bp) or break it into several oligos with shorter compliments.
 #### Kinase oligo in a 96 well plate
 1. Make Kinase Reaction Mix (make #rxn+2)
-  i. 3uL PNK Buffer/rxn
-  ii. 1uL of 10mM ATP/rxn
-  iii. 1uL T4 Polynucleotide Kinase/rxn
-  iv. 18uL ddiH2O/rxn
+  1. 3uL PNK Buffer/rxn
+  2. 1uL of 10mM ATP/rxn
+  3. 1uL T4 Polynucleotide Kinase/rxn
+  4. 18uL ddiH2O/rxn
 2. Combine oligo and reaction mix in PCR strip tubes or 96well PCR Plate
-  i. Aliquot 23uL of Kinase Reaction Mix using repeater
-  ii. Make sure all liquid at the bottom by tapping or briefly spinning
-  iii. Add 7uL of 100uM oligo to the BOTTOM of each well and pipette up and down
+  1. Aliquot 23uL of Kinase Reaction Mix using repeater
+  2. Make sure all liquid at the bottom by tapping or briefly spinning
+  3. Add 7uL of 100uM oligo to the BOTTOM of each well and pipette up and down
 3. Seal, MIX gently by tapping, and incubate at 37deg C (metal bath or PCR machine) for 1 hour
 4. Store on ice short term, or -20 long term
-  i. These can be re-used in the future so no need to throw them away!
+  1. These can be re-used in the future so no need to throw them away!
 #### Dilute Mutagenic Kinased Oligo (Optimal molar ratio is 1:4 dU-ssDNA:Oligo)
 
 a. Add 2uL of oligo into 200uL of diH20 and then MIX WELL!
