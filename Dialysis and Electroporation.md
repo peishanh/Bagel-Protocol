@@ -6,17 +6,16 @@
 4. DO NOT SUBMERGE!
 5. CAREFULLY pipette the entire 5uL reaction onto the designated spots (putting too much pressure on the membrane can flood it and lose your samples)
 6. Cover and let dialyze for 20+ minutes
-    * If you plan to transform the same day that you dialyze I would recommend getting an ice bucket and starting to thaw electrocompetent DH5a cells from the -80 fridge.
+   * If you plan to transform the same day that you dialyze I would recommend getting an ice bucket and starting to thaw electrocompetent DH5a* cells from the -80 fridge.
 7. After the dialysis, CAREFULLY remove the reaction and pipette into the bottom of labeled PCR tubes
 
 ## Electroporation
-1. Open 0.1cm electroporation cuvettes  and KEEP ON ICE
-b. Electroporate
-ii. Add 30uL of electro competent BL21(DE3)* cells (Competent Cell Rack, Box labeled
-“BL21*-ELECTROCOMP”, tubes labeled E*)
-iii. Place into BioRad electroporater (only fit in 1 way) set to Bacteria and hit
+1. Remove 0.1cm electroporation cuvettes for each mutant from individual packaging and KEEP ON ICE
+2. Aquire electro competent DH5a* cells from the -80 fridge and put them on ice
+3. Once thawed, add 25uL of cells to the very bottom (between the two silver plates) in the corner where there is no notch on the outside wall of the cuvette.
+4. Place into BioRad electroporater (only fit in 1 way) set to "Bacteria" and "Time ms" and hit
 “Pulse”
-iv. IMMEDIATLEY add 200uL of media (TB or LB, NO antibiotic) into the
+5. IMMEDIATLEY add 200uL of media (TB or LB, NO antibiotic) into the
 cuvette to extract cells, transfer to a fresh strip tube or PCR plate.
 
 c. Recover and Plate
