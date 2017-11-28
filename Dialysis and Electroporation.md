@@ -1,5 +1,5 @@
 ## Dialyze DNA
-1. Add enought diH2O to an empty Petri dish until it is mostly full
+1. Add enough diH2O to an empty Petri dish to cover the entire dish with a layer of water
 2. Remove the blue paper-like protective covers from either side of a .025um membrane filter
 3. Use a pen to mark positions along the edge of the membrane where your samples will go (you can usually get about 8 around the edge)
 3. Place the filter into the diH2O so that it is flat and there is no water sitting on the surface of the membrane
