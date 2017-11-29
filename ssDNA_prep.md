@@ -80,7 +80,7 @@ All centrifugation steps at 4 C
 3. Vortex and incubate on ice for 45 min
 4. Spin down the phage at 4700 RPM for 45 min
 5. Decant liquid and let tube stand upright to drain off the rest of the liquid
-6. Resuspend the pellet in 2 mL PBS by vortexting or pipeting
+6. Resuspend the pellet in 1.7 mL PBS by vortexting or pipeting
 7. Spin at 14,000 RPM for 5 min
 8. Transfer the supernatant to new microfuge tubes with 300 µL salt PEG
 9. Vortex and incubate at room temperature for 10 min
