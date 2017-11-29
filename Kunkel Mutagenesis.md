@@ -26,9 +26,8 @@
 1. Combine 0.2uL of T4 DNA Ligase Buffer with 2uL of ssDNA, (make #rxn+2)
 2. Aliquot 2.2uL of the mix into a in a fresh PCR plate or strip tubes
 3. Make sure all the liquid as the bottom by spinning down or tapping
-4. Add 2uL of THE DILUTED kinased primer (single or mixed) to generate desired mutant to the bottom of the plate and PIPPETE UP AND DOWN TO MIX.
+4. Add 2uL of THE DILUTED kinased oligo (single or mixed) to generate desired mutant to the bottom of the plate and PIPPETE UP AND DOWN TO MIX.
   * Always do a background as well where you have ssDNA with NO oligo (just add 2uL of water). This will allow to you to know if you mutations work and estimate your mutation efficiency so you can pick the appropriate number of colonies you need to screen in order to find the mutation desired.
-
 5. Seal, MIX (tapping or plate mixer)
 6. Anneal Oligo to DNA (USE heated lid)
   * Slow Anneal in a PCR machine: Start at 95 degrees and ramp down to 25 over an hour (use ANNEALIN or )
