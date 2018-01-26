@@ -5,7 +5,7 @@
 3. Place the filter into the diH2O so that it is flat and there is no water sitting on the surface of the membrane
 4. DO NOT SUBMERGE!
 5. CAREFULLY pipette the entire 5uL reaction onto the designated spots (putting too much pressure on the membrane can flood it and lose your samples)
-6. Cover and let dialyze for 20+ minutes
+6. Cover and let dialyze for 20+ minutes (45 minutes is generally a good amount of time) 
    * If you plan to transform the same day that you dialyze I would recommend getting an ice bucket and starting to thaw electrocompetent *DH5a* cells from the -80 fridge.
 7. After the dialysis, CAREFULLY remove the reaction and pipette into the bottom of labeled PCR tubes
 
