@@ -221,5 +221,5 @@ While centrifuging, prep your microcolums. If necessary, rinse with water. Set c
 1. [Quantitate by absorbance at 280](./gel_and_yields.md)
 2. [SDS-PAGE analysis for purity](./gel_and_yields.md) 
 3. [Assay for kinetic (Michaelis-Menten) parameters](./kinetic_assay.md) 
-4. [Assay for thermal stability](./thermal_stability_assay.md)
+4. [Assay for thermal stability (not uploaded)]
 5. ALWAYS REMEMBER TO THROW AWAY YOUR 2 mL TUBE OF PROTEIN AND CULTURE PLATE WHEN YOU ARE DONE TAKING MEASUREMENTS AND ASSAYING! KEEP THE 4˚C COLD ROOM CLEAR!
