@@ -1,0 +1,53 @@
+# Assay to determine functional thermal stability of β-glucosidase mutants
+
+This procedure is made to measure stability changes caused by mutations to BglB, which as a Tm of 40-42 C under these conditions. Therefore, we use a gradient of 20-80 C. In general, you can adjust the gradient of temperatures on the thermal cycler to center on the Tm of your protein. 
+
+## Materials
+
+Material | Concentration | Amount per sample
+---------|---------------|------------------
+Purified protein | about 1 mg/mL | 140 µL
+PCR tube | | 1
+Optical 96-well assay plate | | 1
+Optical plate seal | | 1
+Protein buffer
+Protein Thermal shift Dye kit
+
+## Mise en place
+
++ P10 and P100 pipet and tips
++ qPCR QuantStudio3 (aka Eva)
+
+## Method
+
+### Protein Dilutions 
+
+Dilute your protein using PCR tubes:
+1. If your protein yield is less than or equal to 0.1 mg/ml:
+Do not dilute protein, load 17.5 uL undiluted protein to each well
+2. If your protein yield is 0.1-1 mg/ml:
+Dilute protein 2X for a total of 100 uL. Mix 50 uL of protein with 50 uL of protein buffer
+3. If your protein yield 1-5 mg/ml:
+Dilute protein 10X for a total of 100 uL. Mix 10 uL of protein with 90 uL of protein buffer
+
+### Prepare a solution of 8X Protein Thermal Shift (PTS) dye (1000X) (Cat # 4461146)
+You can prep this dilution in a PCR tube or 1.5 mL tube
+1. Use 0.56 uL of PTS dye
+2. Dilute with 49.44 uL of protein buffer
+
+This is enough for 4 samples (4 replicates per sample)
+
+### Reaction setup:
+Add the compontents in the order listed
+1. 17.5 uL of the protein sample 
+2. 2.5 uL of diluted 8X PTS dye
+3. Pipet each reaction up and down 10 times to mix
+4. Seal the plate with MicroAmp optical adhesive seal, and spin it at 1000 rpm for 1 min.
+5. Place the plate on ice until you are ready to run the reaction.
+6. Turn the qPCR on, and load the Bagel_Thermal_protocal file. 
+
+###  
+
+
+## Notes 
+
