@@ -6,10 +6,10 @@ The characterization of point mutants of β-glucosidase B from *P. polymxa* ("Ba
 
 The following protocols are used in our lab:
 
-+ `production_production` for production of protein beginning from purified plasmid
-+ `gel_and_yields` for determining protein purity by SDS-PAGE and protein yield by A280
-+ `kinetic_assay` for determining Michaelis-Menten parameters from a plate assay (also see [data analysis tools](bagel-fitter))
-+ `thermal_stability_assay` for an assay to determine an enzyme's melting temperature
++ `1. production_production` for production of protein beginning from purified plasmid
++ `6. gel_and_yields` for determining protein purity by SDS-PAGE and protein yield by A280
++ `3. kinetic_assay` for determining Michaelis-Menten parameters from a plate assay (also see [data analysis tools](bagel-fitter))
++ `2. thermal_stability_assay` for an assay to determine an enzyme's melting temperature
 
 The entire pipeline:
 
