@@ -19,7 +19,7 @@ Before beginning, make sure you have the following ready and standing by:
 
 After we have designed our set of mutants, we mutate the wild type Bagel plasmid to your designed sequence using [Thomas Kunkel's original procedure](http://www.pnas.org/content/82/2/488.full.pdf) or [our group's manual Kunkel protocol](https://docs.google.com/a/ucdavis.edu/folderview?usp=sharing&id=0B3zIXvOOrmpqcEM5WWRadThsVUE). If you're interested, historically orders were carried out on Transcriptic's cloud lab platform (see [Python code that automates the Kunkel procedure and algorithmicly evaluates sequence verification](https://github.com/dacarlin/bagel-orders)). 
 
-## Day 1: Transformation **All steps require sterile techqniues** 
+## Day 1: Transformation (All steps require sterile techqniues)
 
 In this step, you will transform the plasmids encoding your mutant genes into *Escherichia coli BLR(DE3)*. Transformation is the process of physically shocking the bacteria (heat or electricity depending on the procedure) to induce them to take up foreign DNA from the environment. Today, you will heat shock the *E. coli* to induce the uptake of the plasmid encoding the mutant you designed. 
 
@@ -69,7 +69,7 @@ Sterile glass beads | | 8–10
 + Some tips for [troubleshooting transformations from New England Biolabs](https://www.neb.com/tools-and-resources/usage-guidelines/chemical-transformation-tips) 
 + If you are getting poor transformation efficiency, try recovering with 400 µL of media for 2 hours at 37 ˚C
 
-## Day 2: Growth **Use sterile techqniues**
+## Day 2: Growth (Use sterile techqniues)
 
 Today, you will inoculate liquid cultures with one colony from your plates to grow up overnight to increase the number of cells we have to work with for day 3. 
 
@@ -111,7 +111,7 @@ _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 4
 
 + If you have colonies that are white, are not smooth on the surface, and have rough edges they may be contamination. Do not inoculate with one of these colonies; choose a small, round shiny colony. 
 
-## Day 3: Expression cultures **All steps require sterile techqniues**
+## Day 3: Expression cultures (All steps require sterile techqniues)
 
 In this step, you will exchange the spent growth media in your cultures with fresh growth media supplemented with [isopropyl β-D-1-thiogalactopyranoside](https://en.wikipedia.org/wiki/Isopropyl_β-D-1-thiogalactopyranoside) (IPTG). IPTG induces expression of your target protein using the engineered [pET expression system](http://www.genomics.agilent.com/article.jsp%3FpageId%3D472). 
 
