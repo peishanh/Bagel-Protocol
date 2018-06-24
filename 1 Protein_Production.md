@@ -26,7 +26,7 @@ In this step, you will transform the plasmids encoding your mutant genes into *E
 Material | Concentration  | Amount per reaction
 ---------|----------------|--------------------
 Chemically-competent *Escherichia coli* BL21(DE3) | | 25 μL 
-Mutant plasmid solution | > 20 ng/μL | 1 μL
+Mutant plasmid solution, WT and GPF (neg control) | > 20 ng/μL | 1 μL
 Terrific broth (TB) | | 200 μL
 LB agar plates with 50 µg/µL kanamycin | | 1
 Sterile glass beads | | 8–10 
