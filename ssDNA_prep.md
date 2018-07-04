@@ -106,7 +106,7 @@ Run a gel to make sure you can see a clear band. The pET29-BglB construct is ~67
 + 200g PEG (polyethylene glycol) 8000MW
 + 141.6g NaCl
 + Add dH20 to 1L
-+ Autoclave with a stir bar, stir immediately after autoclaving until cool, and store at 40C.
++ Autoclave with a stir bar, stir immediately after autoclaving until cool, and store at 4C.
 
 ### phosphate-buffered saline (PBS, 1 L)
 
