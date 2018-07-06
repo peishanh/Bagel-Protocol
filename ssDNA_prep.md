@@ -117,10 +117,3 @@ Run a gel to make sure you can see a clear band. The pET29-BglB construct is ~67
 + 0.24g KH2PO4 potassium phosphate
 + Adjust pH to 7.4
 + Add water to 1 L
-
-### disruption buffer
-
-+ 5 M Guanidinium Hydrochloride
-+ 1% Triton X-100
-+ 10 mM MOPS
-+ pH 6.5
