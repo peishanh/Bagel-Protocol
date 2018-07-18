@@ -25,11 +25,10 @@ In this step, you will transform the plasmids encoding your mutant genes into *E
 
 Material | Concentration  | Amount per reaction
 ---------|----------------|--------------------
-Chemically-competent *Escherichia coli* BL21(DE3) | | 25 μL 
-Mutant plasmid solution, WT and GPF (neg control) | > 20 ng/μL | 1 μL
+Chemically-competent *Escherichia coli* Chem BLR21(DE3) | | 25 μL 
+Mutant plasmid solution, WT (Pos control) and GPF (neg control) | > 20 ng/μL | 1 μL
 Terrific broth (TB) | | 200 μL
-LB agar plates with 50 µg/µL kanamycin | | 1
-Sterile glass beads | | 8–10 
+LB agar plates with 50 µg/µL kanamycin | | 1 
 15 mL round-bottom culture tube | | 1
 
 ### Mise en place
@@ -59,7 +58,7 @@ Sterile glass beads | | 8–10
 6. Turn off water bath by pressing the play button again (play button will turn red)
 6. Wipe condensation off of outside of plates and label the agarose side of the plates
 6. Pipette 200 µL recovered cells on to plate and spread out the cells
-7. After waiting a minute so that the liquid is absorbed, turn the plates upside down so that the beads fall onto the underside of the lid, and deposit beads into bleach solution for later recovery
+7. After waiting a minute so that the liquid is absorbed, turn the plates upside down. 
 7. Incubate plate *upside down (agarose half on top)* overnight at 37 ˚C
 
 ### Tips and tricks 
@@ -93,15 +92,13 @@ _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 4
 + Benchtop waste bucket 
 + Pre-cut breathable seals
 + Pipettors and tips 
-+ Serological pipette aspirator 
-+ 25 mL serological pipette
 + Bunsen burner
 + Striker
 
 ### Instructions 
 
 1. Light Bunsen burner within 2 feet of where you will be working
-2. Add kanamycin solution to Terrific Broth in an autoclaved flask to make a batch of growth media for all of your mutants. Make enough for one extra culture (n + 1)
+2. Add kanamycin solution to Terrific Broth to make a stock solution. Make enough for one extra culture (n + 1)
 3. Aliquot 5 mL growth media to each 50 mL Falcon tube 
 1. Using a P2 pipette, use the tip to carefully touch a single colony from the plate and dip in the growth media in the Falcon tube, and pipette up and down a few times to inoculate the culture 
 5. Seal the cultures with tube seals (one sheet of breathable seal can be cut into 8 squares for 8 tubes) 
@@ -111,7 +108,7 @@ _Minirecipe_ (for 8 samples) : 45 mL induction medium = 45 mL Terrific Broth + 4
 
 + If you have colonies that are white, are not smooth on the surface, and have rough edges they may be contamination. Do not inoculate with one of these colonies; choose a small, round shiny colony. 
 
-## Day 3: Expression cultures (All steps require sterile techqniues)
+## Day 3: Expression cultures (All steps require sterile techqniues/ Make sure you reserve a spot at the 18C)
 
 In this step, you will exchange the spent growth media in your cultures with fresh growth media supplemented with [isopropyl β-D-1-thiogalactopyranoside](https://en.wikipedia.org/wiki/Isopropyl_β-D-1-thiogalactopyranoside) (IPTG). IPTG induces expression of your target protein using the engineered [pET expression system](http://www.genomics.agilent.com/article.jsp%3FpageId%3D472). 
 
@@ -181,7 +178,7 @@ Ni-NTA resin slurry | 100 μL
 
 ## Method 
 
-_Minirecipe (for 4 samples make n + 2):_ 2500 uL lysis buffer = 2700 uL wash buffer + 300 uL 10X BugBuster + 6 mg dry lysis mix
+_Minirecipe (for 4 samples make n + 2):_ 3000 uL lysis buffer = 2700 uL wash buffer + 300 uL 10X BugBuster + 6 mg dry lysis mix
 
 _Minirecipe (for 8 samples make n + 2):_ 5000 uL lysis buffer = 4500 uL wash buffer + 500 uL 10X BugBuster + 10 mg dry lysis mix
 
