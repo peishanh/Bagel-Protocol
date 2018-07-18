@@ -1,5 +1,5 @@
 ## After After DNA dialysis and electroporation
-You should have the mutant plates (in the 37 C room or 4 C cold room) of your mutants from the previous Kunkel step.   
+You should have the mutant plates (in the 37 C room or 4 C cold room) of your mutants from the previous Kunkel step (Step 2).   
 
 Materials:
 1. Plates from the end of kunkel
@@ -7,9 +7,9 @@ Materials:
 3. Kanamycins (Bagel substrate box)
 4. Terrific broth (TB)
 
-## Day 1: Please use sterile technique (Bunsen burner/ spray areas down with ethanol or IPA)
+## Day 1: Please use sterile technique (Bunsen burner/ spray areas down with 70% ethanol or 70% IPA)
 1. Make a master solution of TB with kanamycins ( n samples +2)
-For example: If you have 18 samples +2, pour 20 mL of TB in a 50 mL falcon tube and add 20 uL (1000X dilution) of Kanamycin on to the TB. 
+For example: If you have (9 samples +2)*2 = 20mL TB, pour 20 mL of TB in a 50 mL falcon tube and add 20 uL (1000X dilution) of Kanamycin on to the TB. 
 2. From each plates containing your mutants, pick 3 different individual colonies and inoculate it into the a separate 15 mL falcon tube containing the TB with Kan.
 3. Incubate at 37 C shaker overnight.
 For the culture plate, seal them with parafilm and store them in 4 C cold room.
@@ -23,9 +23,17 @@ If you have difficulties picking an individual colony from a plate, restreaks th
 3. Otherwise, review and follow the miniprep procedures to extract your DNA. 
 4. Once you have miniprep all your samples, set up a sequencing plate. 
 
-## Sequencing plate setup
-1. Add your samples starting from top to bottom (A to H) and then across (1 to 12). For example: (A1, B1, C1...A3, B3, C3)
-2. For each tube (sample) you have, add 12 uL of your sample to two wells (12 uL/ well) 
-3. Seal the plate with PCR caps
+## Sequencing plate setup (Starts from A1 in a new plate)
+A1  | A2  | A3  | Etc. 
+----|-----|-----|---- 
+B1  | B2  | B3  | Etc
+C1  | C2  | C3  | Etc
+D1  | D2  | D3  | Etc
+Etc | Etc | Etc | Etc
+Note: Never put anything at G12 and H12!
 
-Once your sequence results came back, then you can move on to Dialysis and Electroporation.md
+1. Add your samples starting from top to bottom (A1 to H1) 
+2. For each tube (sample) you have, add 12 uL of your sample to two wells (12 uL/ well) 
+3. Seal the plate with PCR caps and seal the rest of the plate that's not been used with clear seal. Store in -20. 
+
+Once your sequence results came back, then you can move on to Protein production. 
