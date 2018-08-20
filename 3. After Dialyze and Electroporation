@@ -23,6 +23,16 @@ If you have difficulties picking an individual colony from a plate, restreaks th
 3. Otherwise, review and follow the miniprep procedures to extract your DNA. 
 4. Once you have miniprep all your samples, set up a sequencing plate. 
 
+## Find the concentration of your DNA sample before adding it to your sequencing plate.
+
+1. Open the Gen5 application
+2. Under Take3 Application > select nucleic acid quantification
+3. Make sure to change the setting to detect dsDNA. 
+4. Any samples that falls between 40-50 ng/uL might causes low sequence quality reads. 
+Anything that's less 40ug/uL, you should most likely regrow the samples and re-miniprep. 
+Anything that is higher than 180 ng/uL you should dilute the sample (M1V1= M2V2) to around 80-120 ng/uL. 
+
+
 ## Sequencing plate setup (Starts from A1 in a new plate)
 A1  | A2  | A3  | Etc. 
 ----|-----|-----|---- 
