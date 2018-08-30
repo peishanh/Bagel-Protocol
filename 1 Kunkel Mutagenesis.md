@@ -39,7 +39,7 @@
   * 0.4uL 10mM ATP/rxn
   * 0.4uL T7 Polymerase (unmodified from NEB)/rxn
   * 0.4uL T4 Ligase/rxn
-  Note: dNTPs, ATP, and T4 ligase buffer are single USE that's kept in a capsule form in the -20 C
+  * Note: dNTPs, ATP, and T4 ligase buffer are single USE that's kept in a capsule form in the -20 C
 2. Add 2.2uL of polymerization reaction mixture to each annealing reaction
 3. Seal, mix (tapping or plate mixer)
 4. Incubate at room temperature for 1+ hrs (Not overnight).
